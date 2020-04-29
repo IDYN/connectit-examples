@@ -1,0 +1,14 @@
+[
+    "https://raw.githubusercontent.com/IDYN/connectit-examples/master/Import%20Definitions/csv-std-customer.json",
+    "https://raw.githubusercontent.com/IDYN/connectit-examples/master/Import%20Definitions/csv-std-item.json",
+    "https://raw.githubusercontent.com/IDYN/connectit-examples/master/Import%20Definitions/csv-std-salesprice.json",
+    "https://raw.githubusercontent.com/IDYN/connectit-examples/master/Import%20Definitions/csv-std-vendor.json",
+    "https://raw.githubusercontent.com/IDYN/connectit-examples/master/Import%20Definitions/json-std-customer.json",
+    "https://raw.githubusercontent.com/IDYN/connectit-examples/master/Import%20Definitions/json-std-item.json",
+    "https://raw.githubusercontent.com/IDYN/connectit-examples/master/Import%20Definitions/json-std-salesprice.json",
+    "https://raw.githubusercontent.com/IDYN/connectit-examples/master/Import%20Definitions/json-std-vendor.json",
+    "https://raw.githubusercontent.com/IDYN/connectit-examples/master/Import%20Definitions/xml-std-customer.json",
+    "https://raw.githubusercontent.com/IDYN/connectit-examples/master/Import%20Definitions/xml-std-item.json",
+    "https://raw.githubusercontent.com/IDYN/connectit-examples/master/Import%20Definitions/xml-std-salesprice.json",
+    "https://raw.githubusercontent.com/IDYN/connectit-examples/master/Import%20Definitions/xml-std-vendor.json"
+]
